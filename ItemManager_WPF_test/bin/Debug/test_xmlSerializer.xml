@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+  <Item>
+    <name>Pencil2</name>
+    <qty>110</qty>
+    <price>11.2</price>
+  </Item>
+  <Item>
+    <name>Note</name>
+    <qty>2</qty>
+    <price>10.4</price>
+  </Item>
+  <Item>
+    <name>Eraser</name>
+    <qty>1</qty>
+    <price>5</price>
+  </Item>
+  <Item>
+    <name>Ruler</name>
+    <qty>2</qty>
+    <price>7.81</price>
+  </Item>
+</ItemList>

@@ -1,0 +1,19 @@
+﻿<Window x:Class="ItemManager_WPF_test.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Item" Height="300" Width="300" ResizeMode="NoResize">
+    <Grid Margin="50 10">
+        <StackPanel>
+            <Label Content="Name"/>
+            <TextBox Name="tbxName" Margin="5"/>
+            <Label Content="Qty"/>
+            <TextBox Name="tbxQty" Margin="5"/>
+            <Label Content="Price"/>
+            <TextBox Name="tbxPrice" Margin="5"/>
+            <Button Name="btnOk" Margin="10" Content="OK" Click="btnOk_Click"/>
+            <Button Name="btnCancel" Margin="10" Content="CANCEL" Click="btnCancel_Click"/>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>

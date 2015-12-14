@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemList>
+  <ItemList Name="Pencil2" Qty="110" Price="11.2" />
+  <ItemList Name="Note" Qty="2" Price="10.4" />
+  <ItemList Name="Eraser" Qty="1" Price="5" />
+  <ItemList Name="Ruler" Qty="2" Price="7.81" />
+</ItemList>
